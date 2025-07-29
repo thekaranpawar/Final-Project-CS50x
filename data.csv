@@ -1,0 +1,10 @@
+date,type,amount,category,note
+
+2025-07-28 22:43:20,income,20000.0,salary,July
+2025-07-28 22:45:10,income,2000.0,salary,April Salary
+2025-07-28 22:46:45,income,20000.0,salary,July month
+2025-07-28 22:47:01,expense,150.0,food,Lunch
+2025-07-28 22:52:31,income,2000.0,salary,june salary
+2025-07-28 23:20:45,income,2000.0,salary,june salary
+2025-07-28 23:20:55,income,2000.0,salary,April Salary
+2025-07-28 23:24:34,income,2000.0,salary,March
